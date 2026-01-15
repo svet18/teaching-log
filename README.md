@@ -1,8 +1,5 @@
 # teaching-log repo
 
-## Link to access Teaching Repo:
-https://github.com/svet18/teaching-log.git
-
 ## What is this repository?
 
 This repo is a **teaching log** for this Python/Git course.
