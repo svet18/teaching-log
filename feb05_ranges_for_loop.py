@@ -2,8 +2,7 @@
 Lesson Goals:
     - Use range() to generate a sequence of numbers, 
       control starting values, stopping points, and step size.
-    - Practice iterating over different iterable types, including:
-        ranges, lists, strings.
+    - Practice iterating over ranges.
 '''
 
 print("\n\n")
